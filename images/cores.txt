@@ -1,0 +1,7 @@
+azuis:
+#9BA8F2
+#A5A2F2
+
+
+cinzentos:
+#CFCFCF
